@@ -1022,7 +1022,7 @@ weibo.com###v6_pl_rightmod_helpnotebox
 !---首页左侧我的消息>>群通知>>【群使用使用小帮助】
 weibo.com###v6_pl_rightmod_helpgroupchatnotice
 !---首页左侧收藏>>【导出收藏夹至有道云笔记】
-weibo.com###v6_pl_rightmod_favyoudao
+!---weibo.com###v6_pl_rightmod_favyoudao
 !---首页左侧收藏>>【收藏使用小帮助】
 weibo.com###v6_pl_rightmod_helpfav
 !---首页顶部发现>>右侧【微博发现】
